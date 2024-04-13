@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/80fe6b25-ce0c-4f1b-8b81-c4a2d6798d01/resourceGroups/mevoExpress/providers/Microsoft.Web/sites/mevoExpress",
+    "appService.deploySubpath": "."
+}
